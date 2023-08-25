@@ -4,6 +4,9 @@
     "browser": true,
     "jest": true
   },
+  "parserOptions": {
+    "sourceType": "module"
+},
   "plugins": ["lodash"],
   "extends": ["plugin:@next/next/recommended"],
   "rules": {
