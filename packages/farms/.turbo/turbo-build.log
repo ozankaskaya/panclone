@@ -1,0 +1,16 @@
+$ npx tsx scripts/build.ts
+(node:3769) ExperimentalWarning: Custom ESM Loaders is an experimental feature and might change at any time
+(Use `node --trace-warnings ...` to show where the warning was created)
+save farm config...
+Starting build farm config 1
+Farm list saved to  /Users/ozankaskaya92/Desktop/pancake-frontend-master/packages/farms/lists/1.json
+Lp list saved to  /Users/ozankaskaya92/Desktop/pancake-frontend-master/packages/farms/lists/priceHelperLps/1.json
+Starting build farm config 5
+Farm list saved to  /Users/ozankaskaya92/Desktop/pancake-frontend-master/packages/farms/lists/5.json
+Lp list saved to  /Users/ozankaskaya92/Desktop/pancake-frontend-master/packages/farms/lists/priceHelperLps/5.json
+Starting build farm config 56
+Farm list saved to  /Users/ozankaskaya92/Desktop/pancake-frontend-master/packages/farms/lists/56.json
+Lp list saved to  /Users/ozankaskaya92/Desktop/pancake-frontend-master/packages/farms/lists/priceHelperLps/56.json
+Starting build farm config 97
+Farm list saved to  /Users/ozankaskaya92/Desktop/pancake-frontend-master/packages/farms/lists/97.json
+Lp list saved to  /Users/ozankaskaya92/Desktop/pancake-frontend-master/packages/farms/lists/priceHelperLps/97.json
